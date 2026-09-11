@@ -88,7 +88,7 @@ outputs = extract(
 )
 
 sample_points_sweref = pd.read_csv(
-    "/Users/migre740/Desktop/NBIS_projects/andermann_sdm/envoi/examples/sample_example_MR_correct_sweref.csv"
+    "/Users/migre740/Desktop/NBIS_projects/andermann_sdm/envoi_review/sample_example_MR_correct_sweref_trick.csv"
 )
 
 outputs = extract(
